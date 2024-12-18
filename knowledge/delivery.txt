@@ -1,13 +1,13 @@
-# Доставка и оплата
-Доставка осуществляется по всей Москве и области.
-Сроки доставки: 1-2 рабочих дня по Москве, 2-3 дня по области.
+# Delivery and Payment
+Delivery area: [Service area description]
+Delivery time: [Delivery time frames]
 
-Стоимость доставки:
-- По Москве в пределах МКАД: 500 руб
-- За МКАД: от 800 руб в зависимости от расстояния
-- Бесплатная доставка при заказе от 50 000 руб
+Delivery cost:
+- [Zone 1]: [Cost 1]
+- [Zone 2]: [Cost 2]
+- Free delivery: [Conditions]
 
-Способы оплаты:
-- Наличными при получении
-- Банковской картой
-- Онлайн через сайт
+Payment methods:
+- [Payment method 1]
+- [Payment method 2]
+- [Payment method 3]

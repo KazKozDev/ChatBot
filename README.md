@@ -1,7 +1,15 @@
-![Chatbot](https://raw.githubusercontent.com/KazKozDev/ChatBot/main/images/banner.jpg)
+![Chatbot](https://raw.githubusercontent.com/KazKozDev/ChatBot/main/images/images.png)
 
 # Website Chatbot
-A simple knowledge-based chatbot for your website.
+A simple yet powerful knowledge-based chatbot for small business websites. This solution allows you to quickly set up automated customer support using your business information stored in simple text files. Powered by Gemma 2 9B LLM through Ollama, it provides natural and accurate responses to customer queries without requiring constant human supervision.
+
+## Perfect for Small Business
+
+Easy Setup: Just add your business information in simple text files
+No Programming Required: Basic installation and text file editing is all you need
+Cost-Effective: Run locally without expensive API costs or monthly fees
+24/7 Customer Support: Automate responses to common customer questions
+Time-Saving: Reduce time spent on repetitive customer inquiries
 
 ![Chatbot Demo](https://raw.githubusercontent.com/KazKozDev/ChatBot/main/images/demo.jpg)
 
@@ -15,7 +23,9 @@ chatbot/
 ├── knowledge_loader.py
 ├── install_ollama.sh
 ├── knowledge/
-│   └── company.txt
+│   └── about.txt
+│   └── delivery.txt
+│   └── contacts.txt
 └── templates/
 ```
 

@@ -1,9 +1,11 @@
-Наша компания ООО "Техно-Маркет" работает на рынке с 2015 года.
-Мы специализируемся на продаже яблок и апельснов.
-В нашем ассортименте более 20 товаров от ведущих производителей.
+# About Company
+[Company name] has been operating in the market since [year].
+We specialize in [main specialization].
+Our product range includes [number] products from leading manufacturers.
 
-Наши преимущества:
-- Гарантия качества на все товары
-- Профессиональная консультация
-- Быстрая доставка
-- Удобные способы оплаты
+Our advantages:
+- [Advantage 1]
+- [Advantage 2]
+- [Advantage 3]
+- [Advantage 4]
+
