@@ -5,11 +5,11 @@ A simple yet powerful knowledge-based chatbot for small business websites. This 
 
 ## Perfect for Small Business
 
-Easy Setup: Just add your business information in simple text files
-No Programming Required: Basic installation and text file editing is all you need
-Cost-Effective: Run without expensive API costs or monthly fees
-24/7 Customer Support: Automate responses to common customer questions
-Time-Saving: Reduce time spent on repetitive customer inquiries
+- Easy Setup: Just add your business information in simple text files
+- No Programming Required: Basic installation and text file editing is all you need
+- Cost-Effective: Run without expensive API costs or monthly fees
+- 24/7 Customer Support: Automate responses to common customer questions
+- Time-Saving: Reduce time spent on repetitive customer inquiries
 
 ![Chatbot Demo](https://raw.githubusercontent.com/KazKozDev/ChatBot/main/images/demo.jpg)
 
